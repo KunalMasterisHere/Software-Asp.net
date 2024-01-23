@@ -1,23 +1,22 @@
 <h1 align="center">
-<a href="https://mirajsankdecha.vercel.app/" target="_blank">
-<img src="https://www.mindrops.com/images/asp.net-logo.jpg" alt="Miraj Sankdecha Portfolio" width="300">
+
+<img src="https://www.mindrops.com/images/asp.net-logo.jpg" alt="Kunal's Portfolio" width="300">
 </a>
 <br>
-Miraj Sankdecha
+Kunal Master
 </h1>
 
 <p align="center">
-<a href="https://mirajsankdecha.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Miraj Sankdecha Website" />
+<img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="My Website" />
 </a>
-<a href="https://www.linkedin.com/in/mirajsankdecha/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Miraj Sankdecha LinkedIn" />
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" />
 </a>
-<a href="https://twitter.com/mirajsankdecha" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Miraj Sankdecha Twitter" />
+<a href="https://twitter.com/" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://www.instagram.com/mirajgajjar731/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Miraj Sankdecha Instagram" />
+<a href="https://www.instagram.com/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a> 
 </p>
 
@@ -39,15 +38,14 @@ Miraj Sankdecha
 
 ## :pushpin: Introduction
 
-Passionate ASP.NET developer and dedicated BCA (Bachelor of Computer Applications) student at Atmiya University, with a focus on web development. Actively contributing to this repository, showcasing ASP.NET programs developed during the semester subject under the expert guidance of **Dr. Vaishali Vaghela**.
+ASP.NET developer and dedicated Btech student at Indraprastha University, with a focus on web development. Actively contributing to this repository, showcasing ASP.NET programs developed during the semester subject under the expert guidance of my Teachers
 
 This repository serves as more than just a code archive; it is a dynamic daily log that captures my journey, illustrating the evolution of my work, progress, and contributions. The goal is to provide transparency and accountability for the academic projects undertaken in the ASP.NET domain.
 
-As a passionate developer, my aim extends beyond personal growth. This repository is designed to be a valuable resource for fellow students at Atmiya University pursuing ASP.NET, offering insights, inspiration, and practical examples. Through shared knowledge and collaborative learning, I aspire to foster a supportive community within the realm of ASP.NET development at our university
 
 ### :computer: Development Environment
 
-- **Front-End Tools:** Visual Studio 2022
+- **Front-End Tools:** Visual Studio 2024
 - **Back-End Tools:** Command Prompt
 - **Operating System:** Windows 11
 - **Database:** ADO.NET
@@ -55,45 +53,21 @@ As a passionate developer, my aim extends beyond personal growth. This repositor
 
 ### :man_technologist: Developer Information
 
-- **Developer:** Miraj Sankdecha
-- **Enrollment Number:** 210801300
-- **Program:** BCA (Bachelor of Computer Applications)
-- **Subject Code:** 18BCACC603
-- **Class:** C4
-- **Batch:** Y
-- **Roll Number:** 40
+- **Developer:** Kunal Master
+- **Program:**  Btech (Bachelor of Technology)
 
 ### :phone: Contact Information
 
-- **Mobile:** +91 8511411930
-- **Email:** sankdechamiraj@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mirajsankdecha/
-- **X:** https://x.com/mirajsankdecha
+- **Mobile:** +91 99******
+- **LinkedIn:** https://www.linkedin.com/
 
 ## :envelope: Contact Me
 
 Feel free to reach out to me via email or phone for any inquiries or collaborations.
 
-## :man_technologist: About Me
-
-Hello, my name is Miraj Sankdecha and I am a dedicated MERN stack developer and freelancer. Currently, I am in my 6th semester pursuing a BCA degree at Atmiya University.
-
-During my academic journey, I have successfully completed several projects utilizing the MERN stack and React.js. Furthermore, I gained invaluable practical experience through a rigorous 6-month internship at Imbuesoft LLP, where I immersed myself in various facets of the MERN stack, including proficiency in tools such as Postman, Git, and GitHub. My experience extends to working with three prominent CSS frameworks, namely Ant Design, Bootstrap, and Tailwind CSS.
-
-I take pride in my ability to craft and design intricate components, alongside my proficiency in developing APIs. As a result of my experiences and learning, I am now fully prepared and eager to contribute my skills and knowledge to a full-time position.
-
-## :page_facing_up: Resume
-
-Here is my latest resume: **[Click Here](https://drive.google.com/file/d/1HO9p2HsdqrXpN-08T3BGXHhwezY6YALH/view)**
-
-## :wrench: Installation Guide
-
-To set up and run the project, follow these steps:
 
 1. **Clone the Repository:** Use the following command to clone the project repository to your local machine:
 
-   ```bash
-   git clone https://github.com/mirajsankdecha/ASP.NET.git
    
 2. **Open the Project in Visual Studio:**
 - Open Visual Studio on your local machine.
@@ -120,14 +94,3 @@ Once the project is successfully built and running, open your web browser.
 Navigate to the specified URL or port mentioned in the project's documentation or output window.
 
 
-## :man_astronaut: Show your support
-
-Give a ⭐️ if this project helped you!
-
-## :page_facing_up: License
-
-MIT/Massachusetts Institute of Technology(here [LICENSE](https://github.com/mirajsankdecha/ASP.NET/blob/main/LICENSE))
-
-The Caresure Health Insurance code is licensed by Massachusetts Institute of Technology.
-
-By contributing to Caresure Health Insurance, you will be agreeing that your contributions will be licensed under its Massachusetts Institute of Technology(MIT).
